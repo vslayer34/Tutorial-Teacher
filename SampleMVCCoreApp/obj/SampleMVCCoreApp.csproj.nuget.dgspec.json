@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/Tutorial-Teacher/SampleMVCCoreApp/SampleMVCCoreApp.csproj": {}
+  },
+  "projects": {
+    "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/Tutorial-Teacher/SampleMVCCoreApp/SampleMVCCoreApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/Tutorial-Teacher/SampleMVCCoreApp/SampleMVCCoreApp.csproj",
+        "projectName": "SampleMVCCoreApp",
+        "projectPath": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/Tutorial-Teacher/SampleMVCCoreApp/SampleMVCCoreApp.csproj",
+        "packagesPath": "/home/hmaserv/.nuget/packages/",
+        "outputPath": "/mnt/df4c678b-2df4-4fec-9aa4-9f939f62bfd5/Projects/CSharp/Tutorial-Teacher/SampleMVCCoreApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hmaserv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
