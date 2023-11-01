@@ -1,7 +1,11 @@
+using Microsoft.Extensions.DependencyInjection;
+using SampleMVCCoreApp;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<ILog, MyConsoleLogger>();
 
 var app = builder.Build();
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qfxwceapjVSCcfNEWj2SgwDvijvJPYonk7l9SegvZ1A=",
+  "Source": "HelloWebAPIApp",
+  "BasePath": "_content/HelloWebAPIApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
